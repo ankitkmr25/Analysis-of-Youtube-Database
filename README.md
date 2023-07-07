@@ -29,9 +29,3 @@ The primary objectives of our analysis are as follows:
 ### Implications
 
 The outcomes of this project have several practical implications. For YouTube creators, this can serve as a guide to understand what type of content resonates well with viewers. For marketers and advertisers, the insights drawn can help in creating more targeted ad campaigns. For viewers, it could be a guide to discover popular channels and categories they might not have explored before.
-
----
-
-Please note: This project is solely for educational purposes and is aimed at providing insights into the YouTube videos landscape. The project, its authors, or contributors are not directly affiliated with YouTube.
-
-Stay tuned for more updates and feel free to contribute or raise issues if you have any suggestions or find any problems.
