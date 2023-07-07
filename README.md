@@ -1,8 +1,8 @@
-# Analysis of Youtube Database
+# Analysis of Youtube Videos Database
 
 ## Introduction
 
-Welcome to the YouTube Video Analysis project! This repository contains a comprehensive examination of YouTube videos data, exploring different metrics and aspects of the YouTube content landscape. The dataset consists of numerous details about YouTube videos posted by a variety of channels.
+This repository contains a comprehensive examination of YouTube videos data, exploring different metrics and aspects of the YouTube content landscape. The dataset consists of numerous details about YouTube videos posted by a variety of channels.
 
 ### Dataset Information 
 
